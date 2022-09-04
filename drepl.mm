@@ -1,0 +1,10 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1592816155914" ID="ID_787012891" MODIFIED="1614927646616" TEXT="drepl">
+<node CREATED="1592816303257" ID="ID_243715858" MODIFIED="1623046184946" POSITION="right" TEXT="reflection"/>
+<node CREATED="1592816318776" ID="ID_1915380788" MODIFIED="1623046190591" POSITION="right" TEXT="pipeline"/>
+<node CREATED="1592816344620" ID="ID_154427867" MODIFIED="1623046196705" POSITION="right" TEXT="plugins"/>
+<node CREATED="1592816305606" ID="ID_634119714" MODIFIED="1623046219260" POSITION="right" TEXT="HTTP request"/>
+<node CREATED="1592816287543" ID="ID_1300122640" MODIFIED="1623046269982" POSITION="right" TEXT="string translator"/>
+</node>
+</map>
